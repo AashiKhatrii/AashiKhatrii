@@ -14,7 +14,7 @@ Building enterprise applications, full-stack solutions & AI-powered systems.
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding" width="380" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif](https://chatgpt.com/s/m_6a9d6bab549c8191a2c3398de1ab678c)">
 
 ### 👩‍💻 About Me
 
