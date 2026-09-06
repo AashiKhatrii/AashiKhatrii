@@ -14,7 +14,7 @@ Building enterprise applications, full-stack solutions & AI-powered systems.
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://drive.google.com/file/d/1keDefRKXo3a9mBvqlkUaFtuK_cDibHCP/view?usp=sharing">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 ### 👩‍💻 About Me
 
