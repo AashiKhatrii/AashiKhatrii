@@ -50,15 +50,7 @@ Building enterprise applications, full-stack solutions & AI-powered systems.
 
 `C` `C++` `Java` `Python` `SQL` `Git` `GitHub` `VS Code`
 
----
 
-### 🚀 Featured Work
-
-🔹 **SentinelAI** — LLM safety gateway for input/output validation and guardrails
-
-🔹 **MERN Job Portal** — Full-stack platform for job seekers and employers
-
-🔹 **JARVIS** — Python voice-controlled desktop assistant
 
 ---
 
