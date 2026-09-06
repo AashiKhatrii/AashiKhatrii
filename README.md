@@ -6,71 +6,71 @@
 
 Building enterprise applications, full-stack solutions & AI-powered systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-AashiKhatrii-black?style=flat-square&logo=github)](https://github.com/AashiKhatrii)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aashikhatri1108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aashikhatri1108@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AashiKhatrii-181717?style=flat-square&logo=github)](https://github.com/AashiKhatrii)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="YOUR_GIF_OR_IMAGE_URL">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 ### 👩‍💻 About Me
 
 - 💼 Software Engineer Trainee @ **Volkswagen Group Digital Solutions**
 - 🏢 Working with **SAP Fiori/UI5, S/4HANA, BTP & OData**
-- 🌐 Building **Full-Stack applications**
-- 🤖 Exploring **Generative AI & LLM applications**
+- 🌐 Building **Full-Stack Web Applications**
+- 🤖 Exploring **Generative AI & LLM Applications**
 - 🛡️ Built **SentinelAI — LLM Safety Gateway**
-- 🚀 Interested in building practical, scalable software
+- 🚀 Interested in building practical and scalable software
 
 <br clear="right"/>
 
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
-**SAP**
+### SAP
 
-`SAP Fiori` `SAPUI5` `S/4HANA` `SAP BTP` `OData` `CDS Views`
-`Fiori Elements` `Smart Controls`
+`SAP Fiori` `SAPUI5` `S/4HANA` `SAP BTP` `OData`
+`CDS Views` `Fiori Elements` `Smart Controls`
 
-**Full Stack**
+### Full Stack
 
 `React` `Node.js` `Express.js` `JavaScript` `TypeScript`
 `MongoDB` `PostgreSQL` `Redis` `REST APIs`
 
-**AI / Backend**
+### AI / Backend
 
 `Python` `FastAPI` `LLMs` `RAG` `Pydantic`
 `OpenAI Guardrails`
 
-**Languages & Tools**
+### Languages & Tools
 
 `C` `C++` `Java` `Python` `SQL` `Git` `GitHub` `VS Code`
 
-
-
 ---
 
-### 📈 GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AashiKhatrii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AashiKhatrii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiKhatrii&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiKhatrii&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AashiKhatrii&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/AashiKhatrii">
+<img src="https://streak-stats.demolab.com/?user=AashiKhatrii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -78,7 +78,7 @@ Building enterprise applications, full-stack solutions & AI-powered systems.
 
 <div align="center">
 
-### 💡 Building. Learning. Improving.
+### 💡 Building · Learning · Improving
 
 ⭐ Thanks for visiting my profile!
 
