@@ -1,300 +1,93 @@
 <div align="center">
 
-# Hi, I'm Aashi Khatri 👋
+# Hey, I'm Aashi Khatri 👋
 
-### SAP Fiori / UI5 Developer • Full-Stack Developer • AI/LLM Enthusiast
+### SAP Fiori/UI5 Developer · Full-Stack Developer · AI/LLM Enthusiast
 
-Building enterprise applications, full-stack web solutions, and AI-powered systems.
+Building enterprise applications, full-stack solutions & AI-powered systems.
 
-<p>
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:aashikhatri1108@gmail.com">Email</a> •
-  <a href="https://github.com/AashiKhatrii">GitHub</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-AashiKhatrii-black?style=flat-square&logo=github)](https://github.com/AashiKhatrii)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aashikhatri1108@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<img align="right" alt="Coding" width="350" src="YOUR_GIF_OR_IMAGE_URL">
 
-I'm a Computer Science Engineering graduate with hands-on experience in
-**SAP Fiori/UI5, SAP S/4HANA, SAP BTP, OData Services, CDS Views, and
-enterprise application development**.
+### 👩‍💻 About Me
 
-During my internship at **Volkswagen Group Digital Solutions (VWGDS)**,
-I worked on a **Vendor Invoice Management (VIM)** application using
-SAP Fiori/UI5 and SAP S/4HANA, focusing on invoice review, approval,
-workflow tracking, frontend development, and integration with backend
-SAP systems.
+- 💼 Software Engineer Trainee @ **Volkswagen Group Digital Solutions**
+- 🏢 Working with **SAP Fiori/UI5, S/4HANA, BTP & OData**
+- 🌐 Building **Full-Stack applications**
+- 🤖 Exploring **Generative AI & LLM applications**
+- 🛡️ Built **SentinelAI — LLM Safety Gateway**
+- 🚀 Interested in building practical, scalable software
 
-Alongside SAP development, I'm interested in **full-stack development,
-AI, and LLM-based applications**, and I enjoy building practical
-projects that combine software engineering with emerging technologies.
+<br clear="right"/>
 
 ---
 
-## 🚀 What I Work With
+### ⚡ Tech Stack
 
-### SAP Development
-- SAP Fiori / SAPUI5
-- SAP S/4HANA
-- SAP BTP
-- SAP Business Application Studio
-- OData Services (V2/V4)
-- CDS Views
-- Smart Controls
-- Fiori Elements
-- SAP Launchpad Service
+**SAP**
 
-### Full-Stack Development
-- React.js
-- Node.js
-- Express.js
-- JavaScript
-- TypeScript
-- REST APIs
-- JWT Authentication
-- MongoDB
-- PostgreSQL
-- Redis
-- Axios
+`SAP Fiori` `SAPUI5` `S/4HANA` `SAP BTP` `OData` `CDS Views`
+`Fiori Elements` `Smart Controls`
 
-### AI & LLM
-- Generative AI
-- Large Language Models (LLMs)
-- FastAPI
-- Pydantic
-- RAG
-- AI-powered application development
-- LLM API integration
-- AI Safety & Guardrails
+**Full Stack**
 
-### Programming & Tools
-- C
-- C++
-- Java
-- Python
-- SQL
-- Git
-- GitHub
-- VS Code
-- Debugging
+`React` `Node.js` `Express.js` `JavaScript` `TypeScript`
+`MongoDB` `PostgreSQL` `Redis` `REST APIs`
+
+**AI / Backend**
+
+`Python` `FastAPI` `LLMs` `RAG` `Pydantic`
+`OpenAI Guardrails`
+
+**Languages & Tools**
+
+`C` `C++` `Java` `Python` `SQL` `Git` `GitHub` `VS Code`
 
 ---
 
-# 💼 Experience
+### 🚀 Featured Work
 
-## Volkswagen Group Digital Solutions (VWGDS)
+🔹 **SentinelAI** — LLM safety gateway for input/output validation and guardrails
 
-**Software Engineer Trainee**  
-*March 2026 – Present*
+🔹 **MERN Job Portal** — Full-stack platform for job seekers and employers
 
-### Vendor Invoice Management (VIM)
-
-- Developed a **Vendor Invoice Management application** using
-  SAP Fiori/UI5 and SAP S/4HANA to streamline invoice review,
-  approval, and workflow tracking.
-- Designed responsive and user-friendly interfaces using
-  **SAPUI5, Smart Controls, and Fiori design principles**.
-- Integrated frontend applications with SAP backend systems using
-  **OData Services and CDS Views** for real-time data access.
-- Deployed and maintained the application using **SAP BTP Cloud
-  Foundry, SAP Launchpad Service, and SAP Build Work Zone** with
-  secure role-based access management.
+🔹 **JARVIS** — Python voice-controlled desktop assistant
 
 ---
 
-# 🛠️ Featured Projects
-
-## 🛡️ SentinelAI — LLM Safety Gateway
-
-A middleware-based security layer designed to make LLM-powered
-applications safer by validating user inputs and model outputs.
-
-**Tech Stack**
-
-`Python` `FastAPI` `OpenAI Guardrails` `LLM API` `Pydantic`
-
-### Key Features
-
-- Input validation and safety filtering
-- Output validation
-- PII detection
-- Jailbreak detection
-- Configurable safety guardrails
-- Policy-based LLM response filtering
-- REST API architecture
-- Fail-safe safety handling
-
-The project demonstrates how a safety layer can be placed between
-users and an LLM application to validate requests before they reach
-the model and validate generated responses before returning them.
-
-🔗 **Repository:**  
-https://github.com/AashiKhatrii/SentinelAI-LLM-Safety-Gateway
-
----
-
-## 🌐 MERN-Based Job Portal
-
-A full-stack job portal built using the MERN stack to connect job
-seekers and employers through a modern web platform.
-
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Axios`
-
-### Key Features
-
-- User registration and authentication
-- Job seeker and employer workflows
-- Job creation and management
-- Job search and application functionality
-- JWT-based authentication
-- Role-based access control
-- RESTful APIs
-- MongoDB-based data management
-- Cloudinary integration for media handling
-
-🔗 **Repository:**  
-https://github.com/AashiKhatrii/Job-Portal
-
----
-
-## 🤖 JARVIS — Voice Controlled Personal Assistant
-
-A Python-based voice-controlled desktop assistant capable of handling
-common system utilities and web-based tasks through voice commands.
-
-**Tech Stack**
-
-`Python` `SpeechRecognition` `pyttsx3` `PyAutoGUI` `Wikipedia API`
-
-### Features
-
-- Voice command recognition
-- Text-to-speech responses
-- Current time and date
-- Wikipedia search
-- YouTube and Google access
-- Local music playback
-- Desktop screenshots
-- Random jokes
-- Custom assistant name
-- System restart and shutdown commands
-
-🔗 **Repository:**  
-https://github.com/AashiKhatrii/JARVIS
-
----
-
-## 📚 Learning & Practice Projects
-
-A collection of smaller projects developed while learning and
-strengthening programming, frontend development, and machine learning
-fundamentals.
-
-The repository includes hands-on experiments covering:
-
-- HTML & CSS
-- JavaScript
-- Frontend UI development
-- Basic web interactions
-- Python programming
-- Machine learning experiments
-- Data processing
-- Programming fundamentals
-
-🔗 **Repository:**  
-https://github.com/AashiKhatrii/Learning-Projects
-
----
-
-# 🧠 Computer Science Coursework
-
-- Object-Oriented Programming
-- Data Structures
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- System Design
-
----
-
-# 🏆 Achievements & Certifications
-
-🏅 **Top 10 Finalist** among 100+ competing teams in a National
-Hackathon hosted by Manipal University Jaipur, recognized for
-developing an innovative technology-driven solution under
-time-constrained conditions.
-
-📜 **Introduction to Databases — Meta**
-
-📜 **Databases and SQL for Data Science with Python — IBM**
-
-📜 **Introduction to NoSQL Databases — IBM**
-
----
-
-# 📊 GitHub Stats
+### 📈 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AashiKhatrii&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=AashiKhatrii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiKhatrii&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiKhatrii&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AashiKhatrii&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=AashiKhatrii&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🧩 Technologies
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nodejs,express,mongodb,postgres,redis,fastapi,git,github,vscode&perline=8" />
+### 💡 Building. Learning. Improving.
 
-</div>
-
----
-
-# 🎯 Currently Learning
-
-- Advanced SAP Fiori/UI5 development
-- SAP BTP application development
-- ABAP and SAP backend development
-- Full-stack application architecture
-- Generative AI and LLM applications
-- RAG-based systems
-- AI safety and guardrails
-- System design
-
----
-
-# 🤝 Let's Connect
-
-I'm interested in opportunities related to:
-
-- SAP Fiori / UI5 Development
-- SAP BTP Development
-- ABAP Development
-- Full-Stack Development
-- Software Engineering
-- AI / LLM Application Development
-
-<div align="center">
-
-### Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
 
 </div>
